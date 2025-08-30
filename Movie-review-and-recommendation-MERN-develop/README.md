@@ -83,7 +83,7 @@ Before running the application, ensure you have the following installed:
    node server.js
    ```
 
-   The server will run on http://localhost:5000.
+  
 
 2. Start the client(Vite):
 
@@ -93,7 +93,7 @@ Before running the application, ensure you have the following installed:
 
    ```
 
-   The client will run on http://localhost:5173/.
+
 
 3. Access the application through a web browser.
 
@@ -113,6 +113,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-- Rahul Shaw
-- Email : rahul.shaw2017@gmail.com
-- GitHub : https://github.com/RahulShawDevReact/Movie-review-and-recommendation-MERN
+- bhavya sree
+- Email : bhavyasreereddy371@gmail.com
+- GitHub : https://github.com/bhavya371/Moviereviewplatform-React-js-Node-js-Mongodb
+
